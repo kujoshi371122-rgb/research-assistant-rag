@@ -1,4 +1,5 @@
 # Research Assistant — Local RAG Fullstack
+## TEST LINE
 
 A local, privacy-first RAG (Retrieval-Augmented Generation) research assistant.
 Upload documents, generate embeddings, and ask questions grounded in your own sources — fully offline using Ollama.
