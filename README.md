@@ -6,7 +6,7 @@ AI-powered **Retrieval-Augmented Generation (RAG)** system that allows users to 
 
 ## 🚀 Demo
 
-🎥 Demo Video: https://your-video-link-here
+🎥 Demo Video: *(Add your video link here)*
 
 ---
 
