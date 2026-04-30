@@ -12,21 +12,21 @@ AI-powered **Retrieval-Augmented Generation (RAG)** system that allows users to 
 
 ## 📸 Screenshots
 
-### 💬 Chat Interface
+### 🏠 Dashboard
 
-![Chat](assets/chat.png)
+![Dashboard](assets/assets/DASHBOARD.png)
 
-### 🔍 Semantic Search
+### 💬 Chat + Semantic Search
 
-![Search](assets/search.png)
+![Chat](assets/assets/SEMANTIC_SEARCH_CHAT.png)
 
-### 📄 Document Upload
+### 📄 Add Documents
 
-![Upload](assets/upload.png)
+![Upload](assets/assets/ADD_DOCUMENTS.png)
 
 ### ⚙️ System Status
 
-![System](assets/system.png)
+![System](assets/assets/SYSTEM.png)
 
 ---
 
